@@ -1,0 +1,39 @@
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto; /* Centers the image horizontally within its container */
+}
+
+#img-div{
+  background-color: #f5f6f7;
+  padding: 50px;
+  margin: 0px;
+  text-align: center;
+}
+
+body {
+  background: #ffefd5;
+  color: #1b1b32;
+  font-family: Tahoma;
+  margin: 0;
+}
+
+h1,
+h3 {
+  font-family: Verdana, Tahoma;
+}
+
+h3 {
+  border-bottom: 4px solid #dfdfe2;
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+h1, h3{
+  text-align: center;
+}
+
+* {
+  margin: 10px;
+}
